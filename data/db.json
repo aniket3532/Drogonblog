@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Balerion",
+      "body": "Largest of the dragon house, first rode by Aegon the conqueror",
+      "author": "Aegon Targaryen",
+      "id": 1
+    },
+    {
+      "title": "Vhagar",
+      "body": "Mother of the dragon house, first rode by Visenya Targaryen",
+      "author": "Westerosi",
+      "id": 2
+    },
+    {
+      "title": "Drogon",
+      "body": "Born during Robert Baratheon's rule, first rode by Danaerys Targaryen",
+      "author": "Tyrion Lannister",
+      "id": 3
+    },
+    {
+      "title": "SYRAXES",
+      "body": "dragon of the beautiful queen Rhaenrya",
+      "author": "Stark",
+      "id": 4
+    },
+    {
+      "title": "Cearxes",
+      "body": "Mighty red dragon of one and only husband of Rhaenra",
+      "author": "Lannister",
+      "id": 5
+    }
+  ]
+}
